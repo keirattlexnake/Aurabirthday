@@ -419,7 +419,7 @@ x = setInterval(function() {
 
     ctx.translate(-hw, -hh);
 
-    if (done) window.location.href = "https://www.canva.com/";
+    if (done) window.location.href = "https://www.canva.com/design/DAFF5RugB0M/OmESDYPVu0wT2GT2hmzPCg/view?utm_content=DAFF5RugB0M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton";
   }
 
   for (let i = 0; i < opts.strings.length; ++i) {
